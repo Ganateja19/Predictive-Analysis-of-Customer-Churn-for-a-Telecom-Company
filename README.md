@@ -1,4 +1,4 @@
-# Predictive-Analysis-of-Customer-Churn-for-a-Telecom-Company
+# AI-Powered Churn Prediction System for Telecom Customer Retention
 
 Project Overview:
 The objective of this project was to develop a machine learning model to predict customer churn using the Telco Customer Churn dataset. The dataset contains 7,043 customer records and 21 features, including demographics, service details, and billing information.
